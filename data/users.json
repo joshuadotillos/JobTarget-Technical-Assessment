@@ -232,9 +232,24 @@
   {
     "id": 11,
     "name": "Joshua",
-    "email": "joshua@gmail.com",
+    "username": "joshuaDotillos",
+    "email": "dotillos.joshua@gmail.com",
+    "address": {
+      "street": "Cebu",
+      "suite": "Cebu Suite",
+      "city": "Cebu City",
+      "zipcode": "6000",
+      "geo": {
+        "lat": "-80.44556",
+        "lng": "80.22335"
+      }
+    },
+    "phone": "8889993333",
+    "website": "Joshua Website",
     "company": {
-      "name": "Joshua Website"
+      "name": "Name of Company",
+      "catchPhrase": "Lorem Ipsum",
+      "bs": "model technologies"
     }
   }
 ]
